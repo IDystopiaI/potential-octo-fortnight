@@ -1,3 +1,5 @@
+Title Goes Here!
+
 "Lorem ipsum dolor sit amet, 
 consectetur adipiscing elit, 
 sed do eiusmod tempor 
@@ -6,3 +8,5 @@ magna aliqua. Ut enim ad minim
 veniam, quis 
 nostrud exercitation ullamco 
 laboris."
+
+Footer goes here.
