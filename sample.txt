@@ -1,4 +1,4 @@
-Title Goes Here!
+My Revised Title!
 
 "Lorem ipsum dolor sit amet, 
 consectetur adipiscing elit, 
@@ -9,4 +9,4 @@ veniam, quis
 nostrud exercitation ullamco 
 laboris."
 
-Footer goes here.
+The End.
